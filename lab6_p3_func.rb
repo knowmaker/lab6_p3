@@ -1,8 +1,5 @@
 # frozen_string_literal: true
 
-# :reek:DuplicateMethodCall
-# :reek:TooManyStatements
-
 # class for calculating line length
 class Int
   def self.intprg_block(zn_a, zn_b)
